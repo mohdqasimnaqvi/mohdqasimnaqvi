@@ -1,7 +1,5 @@
 - ## 👋 Hi, I’m @mohdqasimnaqvi
 - ## 👀 I’m interested in CSS/Javascript/Angular/Vue/PHP/Laravel/Eloquent
-- ## 🌱 I’m currently learning ... Laravel
-- ## 💞️ I’m looking to collaborate on ... Laravel
 - ## 📫 You can reach me on github/teams
 
 <!---
